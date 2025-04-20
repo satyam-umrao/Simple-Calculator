@@ -22,7 +22,7 @@ A simple, responsive web-based calculator built using HTML, CSS, and JavaScript.
 
 ## 📷 Preview
 
-![Calculator Screenshot](https://satyam-umrao.github.io/Simple-Calculator/preview.png) <!-- Replace with an actual screenshot URL if available -->
+![Calculator Screenshot](s1.png) <!-- Replace with an actual screenshot URL if available -->
 
 ## 🚀 Getting Started
 
